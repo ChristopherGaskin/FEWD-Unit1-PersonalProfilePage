@@ -169,14 +169,9 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
+
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(../images/291716_github_logo_social\ network_social_icon.png);
 }
 a.social:hover {
   opacity: 1;
